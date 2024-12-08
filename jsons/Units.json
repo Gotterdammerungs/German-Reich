@@ -1,17 +1,13 @@
 [
 	{
-		"name": "Phasers",
-		"unitType": "Ranged",
-		"uniqueTo": "Aliens",
-		"replaces": "Machine Gun",
-		"movement": 2,
-		"strength": 90,
-		"rangedStrength": 36,
+		"name": "Agent",
+		"unitType": "Civilian",
+		"uniqueTo": "The Intelligence Agency",
+		"replaces": "Scout",
+		"movement": 3,
 		"range": 2,
 		"cost": 500,
-		"requiredTech": "Ballistics",
-		"requiredResource": "Uranium",
-		"promotions": ["Logistics","Accuracy I"],
-		"attackSound": "phasers"
+		"requiredTech": "Writing",
+		"uniques": ["Ignores terrain cost","Unable to capture cities","No movement cost to pillage","Destroys tile improvements when attacking","Invisible to others","May enter foreign tiles without open borders","Withdraws before melee combat <with [49]% chance>", "Can build [All Road] improvements on tiles","Limited to [8] per Civilization"
 	}
 ]
