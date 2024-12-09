@@ -1,5 +1,1 @@
-# Unciv-mod-example
-
-An example mod for Unciv, that adds one new Civilization.
-
-For information on how to build and use mods, please refer to [the setup instructions](https://yairm210.github.io/Unciv/Modders/Making-a-new-Civilization/)
+This mod gives you the ability to play as the Intelligence Agency, an elite organization of top spies and special operatives, use your agents to gather information, sabotage enemy improvements while invisible and instantly assasinating anyone(surprisingly not that unbalanced)
