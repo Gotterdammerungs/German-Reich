@@ -26,7 +26,7 @@
 		"tradeRequest": "Our spies said the you would probably accept this trade offer",
 
 		"outerColor": [16,16,16],
-		"innerColor": [255,200,200],
+		"innerColor": [110,110,110],
 		"unique": ["[+20]% Culture cost of adopting new Policies","[-20]% Golden Age length", "[+20]% spy effectiveness [in all cities]","[+20]% XP gained from combat","Borrows city names from other civilizations in the game","New spies start with [3] level(s)","[+20]% Gold cost of acquiring tiles [in all cities]","[-40]% [Culture]"],
 		"cities": ["vlostead","vlerough","waecshire","stiburgh","grul","andling"],
 	}
