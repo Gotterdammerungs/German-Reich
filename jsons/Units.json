@@ -4,9 +4,10 @@
 		"unitType": "Civilian",
 		"uniqueTo": "The Intelligence Agency",
 		"replaces": "Scout",
-		"strength": 3
+		"strength": 3,
 		"movement": 3,
-		"cost": 500,
+		"sight": 4,
+		"cost": 300,
 		"requiredTech": "Writing",
 		"uniques": ["Ignores terrain cost","Unable to capture cities","Ignores Zone of Control","Destroys tile improvements when attacking","No movement cost to pillage","Destroys tile improvements when attacking","Invisible to others","May enter foreign tiles without open borders","Withdraws before melee combat <with [49]% chance>", "Can build [All Road] improvements on tiles","Limited to [8] per Civilization"],
 	},
