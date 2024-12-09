@@ -1,1 +1,13 @@
-
+[
+	{
+		"name": "Spy Hideout",
+		"isNationalWonder": true,
+		"production": -1,
+		"science": -1,
+		"gold": -1,
+		"culture": -1,
+		"cityStrength": 1,
+		"cost": 700,
+		"uniques": ["Gain an extra spy","Gain an extra spy","Promotes all spies [1] time(s)"],
+   }
+]
