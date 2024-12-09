@@ -1,38 +1,32 @@
 [
 	{
-		"name": "Aliens",
-		"leaderName": "Zyxxyz",
-		"adjective": ["alien"],
-		"startBias": ["Snow"],
+		"name": "The Intelligence Agency",
+		"leaderName": "Director",
 		"preferredVictoryType": "Scientific",
 		
-		"startIntroPart1": "We come in peace!",
-		"startIntroPart2": "This is an overpowered joke nation just as an example for the mods feature. Set Phasers to Obliterate!!",
+		"startIntroPart1": "This Agency has well trained spies at you command, use them to gather intel and sabotage the enemy",
+		"startIntroPart2": "Can The Intelligence Agency stand the test of time? Use your agents to know everything about the enmy and lead your civilization to victory!",
 		
-		"declaringWar": "Resistance is futile! Prepare to be assimilated!",
-		"attacked": "You want to play? Very funny!",
-		"defeated": "How is it possible that those Apes hurt us? The galactic senate will take care of them.",
-		"introduction": "As superior galactic entities, you are not worthy of our attention.",
+		"declaringWar": "Good Luck, our directors decided it is an optimal decision to ANNIHILATE YOU",
+		"attacked": "Our agents warned us already, we were ready before you even de decided to attack",
+		"defeated": "I guess our agents could only go so far to help us, may you use our remains to achieve victory!",
+		"introduction": "We already know who you are, but decided to introduce ourselves.",
 		
-		"neutralHello": "How are you doing?",
-		"neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
-		"neutralNo": ["We absolutely refuse.","No!","I refuse."],
-		"neutralYes": ["Very good.","Of course, yes.","That is very good."],
+		"neutralHello": "Hello",
+		"neutralLetsHearIt": ["Go on."],
+		"neutralNo": ["We refuse."],
+		"neutralYes": ["Very well."],
 
-		"hateHello": "What do you want now?",
-		"hateLetsHearIt": ["Speak!","What do you say?","Go on."],
-		"hateNo": ["That is not possible!","We are not agreeing to that!","I beg your pardon?"],
-		"hateYes": ["That is fine.","That is good enough.","Very well..."],
+		"hateHello": "What do you want now",
+		"hateLetsHearIt": ["Go on."],
+		"hateNo": ["Absolutly not"],
+		"hateYes": ["Very well..."],
 		
-		"afterPeace": "Very well, all that fighting was getting boring anyway.",
-		"tradeRequest": "We bestow you the honor of this trade offer.",
+		"afterPeace": "Finally, our agents were able to bribe your leaders into stopping this idiotic war.",
+		"tradeRequest": "Our spies said the you would probably accept this trade offer",
 
 		"outerColor": [16,16,16],
 		"innerColor": [255,200,200],
-		"unique": "MANIFEST_DESTINY",
-		"cities": ["The Hive","Q'Throczan","Q'Chovex","Q'Imphet","Q'Omphead","Q'Grecoks","Q'Vrelzieks","Q'Vronens","Q'Aerlae",
-			"Q'Phulnoith","Q'Creved","Q'Xirqen","Q'Gax","Q'Threqals","Q'Bhilmuk","Q'Mazea","Q'Zomirs","Q'Drorkrex","Q'Honkrath",
-			"Q'Zulgra","Q'Vahars","Q'Crindith","Q'Raavraes","Q'Bhoknais","Qho'Qru","Q'Dateatz","Q'Elnad","Q'Izien","Qol'Ell",
-			"Q'Dhihien","Q'Naquiel","Q'Ugneon","Q'Straquks","Q'Nulptr","Q'Ohfahl"]
+		"unique": ["[+20]% Gold cost of acquiring tiles [in all cities]","[-40]% [Culture]"],
 	}
 ]
